@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.codex/
+node_modules/
+dist/
+a.out
