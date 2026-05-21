@@ -6,8 +6,8 @@ export const profile = {
   phone: '+923056927910',
   email: 'sohaibkhanniazi1997@gmail.com',
   linkedinLabel: 'Sohaib Khan Niazi',
-  linkedinUrl: 'https://www.linkedin.com/search/results/all/?keywords=Sohaib%20Khan%20Niazi',
-  githubUrl: 'https://github.com/sohaib-niazi',
+  linkedinUrl: 'https://www.linkedin.com/in/sohaib-khan-niazi-75a978168/',
+  githubUrl: 'https://github.com/sohaib-khan-niazi',
   cvUrl: 'Muhammad_Sohaib_CV.pdf',
   summary:
     'DevOps and cloud infrastructure engineer with 2+ years of hands-on experience across OpenShift, Kubernetes, multi-cloud infrastructure, GitOps delivery, and enterprise observability.',
